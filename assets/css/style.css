@@ -3,10 +3,11 @@
 .navbartab {
   font-family: 'Noticia Text', serif;
   color: black;
-  font-size: 30px; 
+  font-size: 30px;
 }
 #h1 {text-align: center;
   font-family: 'Noticia Text', serif;
+  font-weight: bold;
 }
 a:hover {
   text-decoration: none;
