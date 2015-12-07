@@ -31,3 +31,6 @@ body {
 
 .headshot {background-image: url("../../photos/headshot.jpg");
 height: 1000px;}
+li {
+  margin-bottom: 12px;
+}
