@@ -29,4 +29,5 @@ body {
   background-size: 800px 800px;
 }
 
-.headshot {background-image: url("../../photos/headshot.jpg")}
+.headshot {background-image: url("../../photos/headshot.jpg");
+height: 1000px;}
