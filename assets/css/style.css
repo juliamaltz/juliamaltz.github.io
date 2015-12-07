@@ -19,8 +19,12 @@ body {
 }
 .title {text-align: center;
 }
-#headshot {
-  background-size: 1400px 1400px;}
+#headshot
+  {background no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;}
 .socialmedia {
   font-weight: bold;
 }
