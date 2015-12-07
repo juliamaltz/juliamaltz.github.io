@@ -19,12 +19,6 @@ body {
 }
 .title {text-align: center;
 }
-#headshot
-  {background no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;}
 
 .socialmedia {
   font-weight: bold;
@@ -34,4 +28,5 @@ body {
 #aboutmepic {
   background-size: 800px 800px;
 }
-body {background-image: url (photos/headshot3.jpg);}
+
+.headshot {background-image: url("../../photos/headshot.jpg")}
