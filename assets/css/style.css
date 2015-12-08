@@ -9,6 +9,7 @@
   font-family: 'Noticia Text', serif;
   font-weight: bold;
   font-size: 40px;
+  color: gray;
 }
 a:hover {
   text-decoration: none;
