@@ -12,11 +12,11 @@
 }
 a:hover {
   text-decoration: none;
-  background-color: red;
 }
 body {
   font-family: 'Noticia Text', serif;
   color: black;
+  background-color: #F5F5DC;
 }
 .title {text-align: center;
 }
