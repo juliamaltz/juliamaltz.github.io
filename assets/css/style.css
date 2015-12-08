@@ -30,6 +30,12 @@ body {
   text-decoration: none;
   color: black;
 }
+.writingsample {
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+}
 #aboutmepic {
   padding-top: 60px;
 }
