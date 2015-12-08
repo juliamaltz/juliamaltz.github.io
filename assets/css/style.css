@@ -35,12 +35,13 @@ body {
 }
 
 .headshot {background-image: url("../../photos/headshot.jpg");
-height: 1000px;}
+height: 1000px;
+border-top-style: solid;
+border-top-color: black;
+border-top-width: thick;
+}
 li {
   margin-bottom: 12px;
-  border-top-style: solid;
-  border-top-color: black;
-  border-top-width: thick;
 }
 .subtitles {
   color: gray;
