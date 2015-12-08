@@ -32,6 +32,9 @@ body {
 }
 #aboutmepic {
   padding-top: 10px;
+  border-style: solid;
+  border-color: black;
+  border-width: thin;
 }
 
 .headshot {background-image: url("../../photos/headshot.jpg");
@@ -42,7 +45,4 @@ li {
 .subtitles {
   color: gray;
   font-weight: bold;
-}
-html {
-  text-decoration: none;
 }
