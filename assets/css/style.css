@@ -22,7 +22,6 @@ body {
 }
 .title {text-align: center;
   color: red;
-
 }
 
 .socialmedia {
@@ -43,4 +42,7 @@ li {
 .subtitles {
   color: gray;
   font-weight: bold;
+}
+html {
+  text-decoration: none;
 }
