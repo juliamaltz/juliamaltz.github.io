@@ -34,7 +34,7 @@ body {
   padding-top: 10px;
   border-style: solid;
   border-color: black;
-  border-width: thin;
+  border-width: thick;
 }
 
 .headshot {background-image: url("../../photos/headshot.jpg");
