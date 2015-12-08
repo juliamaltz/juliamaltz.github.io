@@ -27,6 +27,7 @@ body {
   font-weight: bold;
   text-align: center;
   text-decoration: none;
+  color: black;
 }
 #aboutmepic {
   padding-top: 42px;
@@ -36,4 +37,7 @@ body {
 height: 1000px;}
 li {
   margin-bottom: 12px;
+}
+.subtitles {
+  color: gray;
 }
