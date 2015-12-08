@@ -39,7 +39,7 @@ body {
 #aboutmepic {
   padding-top: 60px;
   padding-right: 50px;
-  padding bottom: 60px;
+  padding-bottom: 60px;
 }
 
 .headshot {background-image: url("../../photos/headshot.jpg");
@@ -58,8 +58,10 @@ li {
 .col-md-6 {
   padding-left: 50px;
   padding-right: 50px;
+  padding-bottom: 50px;
 }
 .col-md-12 {
   padding-left: 50px;
   padding-right: 50px;
+  padding-bottom: 50px;
 }
