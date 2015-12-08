@@ -12,6 +12,7 @@
 }
 a:hover {
   text-decoration: none;
+  background-color: gray;
 }
 body {
   font-family: 'Noticia Text', serif;
