@@ -38,6 +38,9 @@ body {
 height: 1000px;}
 li {
   margin-bottom: 12px;
+  border-top-style: solid;
+  border-top-color: black;
+  border-top-width: thick;
 }
 .subtitles {
   color: gray;
