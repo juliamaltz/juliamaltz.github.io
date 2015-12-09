@@ -64,3 +64,6 @@ li {
   padding-right: 50px;
   padding-bottom: 50px;
 }
+#picdiv {padding-left: none;
+padding-bottom: none;
+}
